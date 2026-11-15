@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Tung1810
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning Python and ROS
+- 👋 Hi, I’m @tylertran108, a master student in Mechatronics, Robotics and Biomechanical Engineering at TUM, Munich
+- 👀 I have worked 3 years in the field of automotive integration testing and functional development with Model-Based System Engineering. If you see an AUDI A6 e-Tron running on the road then I probably helped diagnosis and testing a piece of its ADAS software.   
+- 🌱 I’m interested in robotics and control systems engineering. Currently I'm learning C/C++, Embedded Systems and Machine Learning.
 - 💞️ I’m looking to collaborate on Robotics and Control Systems
-- 📫 How to reach me ...
-
-<!---
-Tung1810/Tung1810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me (linkedin.com/in/tungtranhsrw/)
